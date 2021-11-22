@@ -1,0 +1,3 @@
+# Python Twitch Bot
+
+This is a python twitch bot that used the python library TwitchIO an asynchronous python wrapper around the twitch API and IRC. 
